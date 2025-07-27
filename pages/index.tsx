@@ -1,5 +1,5 @@
 import React from 'react';
 
 export default function Home() {
-  return <div>Welcome to VibeAI 🌟</div>;
+  return <div>Welcome to VibeGAI 🌟</div>;
 }
